@@ -1,7 +1,7 @@
-// Myles Crouther, David Willoughby, Jonathan Stuppin
-// University of Arizona Global Campus
-// INT 499 - Capstone for Information Technology (INP2350A)
-// Professor: Joseph Issa
+-- Myles Crouther, David Willoughby, Jonathan Stuppin
+-- University of Arizona Global Campus
+-- INT 499 - Capstone for Information Technology (INP2350A)
+-- Professor: Joseph Issa
 
 
 Table users {
