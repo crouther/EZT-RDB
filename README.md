@@ -9,6 +9,6 @@ System Analysis and Project Plan: https://docs.google.com/document/d/1GG19CKHxhe
 EZTechMovie - BUSINESS OVERVIEW: https://drive.google.com/file/d/1utQgeibzLmAujXQH7goGXMbg9yyha4Hw/view?usp=sharing
 
 
-Endpoint: eztm.cpc8sqtxhwkj.us-east-1.rds.amazonaws.com  
+Endpoint: eztechmoviedb.cpc8sqtxhwkj.us-east-1.rds.amazonaws.com
 
-Port: 5432
+Port: 3306
